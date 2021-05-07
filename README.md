@@ -13,6 +13,7 @@ Tyl's name is pronounced the same as TIL (Today I Learned) in Czech language, so
 * [GCP](#gcp)
 * [MacOS](#macos)
 * [PgSQL](#pgsql)
+* [vim](#vim)
 * [zsh](#zsh)
 
 
@@ -41,6 +42,9 @@ Tyl's name is pronounced the same as TIL (Today I Learned) in Czech language, so
 * [Changing Default DB Collation](pgsql/default-collate.md)
 * [pg_upgrade to new version](pgsql/migrate.md)
 
+### vim
+
+* [Exit with non-zero return code](vim/vim.md)
 
 ### zsh
 
