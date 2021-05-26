@@ -44,7 +44,7 @@ Tyl's name is pronounced the same as TIL (Today I Learned) in Czech language, so
 
 ### vim
 
-* [Exit with non-zero return code](vim/vim.md)
+* [Exit with non-zero return code](vim/vim.md#exit-vim-with-non-zero-return-code) (2021-05-07)
 
 ### zsh
 
